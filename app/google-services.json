@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "488556993710",
+    "project_id": "fir-login-61d00",
+    "storage_bucket": "fir-login-61d00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488556993710:android:751dd62205bc5eb30fe13f",
+        "android_client_info": {
+          "package_name": "garcia.hiram.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488556993710-3r1oha6dti0g9l726u01mdomhl185nn2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "garcia.hiram.firebaselogin",
+            "certificate_hash": "ff14b0978ca79757df93fbd21ecba56ca4e057ce"
+          }
+        },
+        {
+          "client_id": "488556993710-pu2fpeiknavni8mkhvi90ae7p5b8iooa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtUaz-wLmF31UVMawjgqEvi9gHwhsQ4lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488556993710-pu2fpeiknavni8mkhvi90ae7p5b8iooa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
